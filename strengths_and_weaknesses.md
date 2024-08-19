@@ -1,4 +1,4 @@
 # Strengths
-
+    Flexibility
 
 # Weaknesses
